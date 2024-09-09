@@ -27,7 +27,7 @@ const perguntas = [
             },
             {
                 texto: "Acredita que a energia hidreelétrica é uma energia renovável e sustentável",
-                afirmacao: " é uma energia renovável - ilimitada no tempo - porque são as suas fontes que se renovam, ou seja, rios e riachos alimentados pelo ciclo natural da água. "
+                afirmacao:  "é uma energia renovável - ilimitada no tempo - porque são as suas fontes que se renovam, ou seja, rios e riachos alimentados pelo ciclo natural da água. "
             }
         ]
     },
